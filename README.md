@@ -170,5 +170,4 @@ const derivedKey: Buffer = await deriveSymmetricPath(seed, ['ton-seed', 'some-ke
 
 # License
 
-
 MIT
